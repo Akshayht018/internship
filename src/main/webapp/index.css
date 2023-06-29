@@ -1,0 +1,52 @@
+@charset "UTF-8";
+*{
+    margin:0;
+    padding: 0;
+    
+
+}
+
+
+
+section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    table {
+        margin-top: 20px;
+    }
+
+
+
+header{
+    align-content: center;
+}
+
+
+p{
+  
+  font-size: 24px;
+  font-weight: bold;
+  color:black;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+
+
+
+
+
+
+ section {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    
+   

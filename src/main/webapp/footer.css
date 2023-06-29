@@ -1,0 +1,106 @@
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.footerheader {
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.footerheader:hover {
+    color: orange; /* Change to the desired orange color */
+   
+    transition: color 0.3s ease;
+}
+
+.footerheader {
+    border-bottom-color: #100F0F !important;
+}
+
+
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.col {
+    flex: 1;
+    padding: 10px;
+}
+
+h6 {
+    color: white;
+}
+
+hr {
+    border-color: white;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footerlinks {
+    color: white;
+    text-decoration: none;
+}
+
+.footerlinks:hover {
+    color: orange; /* Change to the desired orange color */
+    
+    transition: color 0.3s ease;
+}
+
+.fabul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.fabli {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.fabli:last-child {
+    margin-right: 0;
+}
+
+.fabul {
+    display: block;
+    width: 40px;
+    height: 40px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.insta {
+    background-image: url('instagram-icon.png');
+}
+
+.twitter {
+    background-image: url('twitter-icon.png');
+}
+
+.yt{
+    background-image: url('youtube-icon.png');
+}
+
+.facebook {
+    background-image: url('facebookjpg.jpg');
+}
+
+.fabul:hover {
+    opacity: 0.8;
+}
+
+
+
